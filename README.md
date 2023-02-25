@@ -28,6 +28,9 @@ Integrating the mental health prediction model into a web application or chatbot
 
 # References
 Mental Health in Tech Survey
+
 Scikit-learn
+
 TensorFlow
+
 Keras
